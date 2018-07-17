@@ -2,6 +2,7 @@
 
 ## Description
 A prototypic implementation of EVA as part of my Master's Thesis.
+
 Please find the publication here: [EVA: Fair and Auditable Electric Vehicle Charging Service using Blockchain](https://dl.acm.org/citation.cfm?id=3219776)
 
 ## Build Instructions
