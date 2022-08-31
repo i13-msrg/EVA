@@ -1,4 +1,5 @@
-pragma solidity ^0.4.17;
+//SPDX-License-Identifier: Unlicense
+pragma solidity >=0.4.22 <0.9.0;
 
 contract Migrations {
   address public owner;
@@ -8,7 +9,7 @@ contract Migrations {
     if (msg.sender == owner) _;
   }
 
-  function Migrations() public {
+  function Migrations_() public  {
     owner = msg.sender;
   }
 
